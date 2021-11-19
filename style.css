@@ -1,0 +1,23 @@
+body {
+    background-color: #222; color: #eee;
+}
+
+a {
+    color: #eee;
+}
+p {
+    text-transform: uppercase;
+}
+
+ h1 {
+    font-family: 'Special Elite', cursive;
+  
+ }
+
+ header {
+     display: inline-block;
+ }
+#display {
+    display: inline;
+    font-family: 'Merriweather', serif;
+}
